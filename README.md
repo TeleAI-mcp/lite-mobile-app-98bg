@@ -1,2 +1,3 @@
-# lite-mobile-app-98bg
-A mobile application for modern development workflows
+# Lite Mobile App 98Bg
+
+A mobile application for modern development workflows.
